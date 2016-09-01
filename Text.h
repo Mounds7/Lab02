@@ -1,6 +1,11 @@
 #if !defined STRING_H
 #define STRING_H
 
+
+
+//test  
+
+
 class String
 {
    private:
